@@ -1,0 +1,46 @@
+BIKE BOX BATH — PROPRIETARY WEBSITE LICENCE
+
+Licensor: George Aston
+Licensee: Damian Bush, for use by Bike Box Bath
+Website: bikeboxbath.co.uk
+Effective date: the date of the last signature below
+
+1. Scope and ownership
+This licence covers the website code, layout and other original materials supplied by George Aston for the Bike Box Bath website, only to the extent that George Aston owns or is entitled to license those materials (the Software). George Aston retains those rights. Delivery of files does not transfer ownership of copyright. Bike Box Bath's own branding, business information and other materials remain with their respective owners.
+
+2. Permission for Bike Box Bath
+George Aston grants Damian Bush a non-exclusive, worldwide licence, without a fixed expiry, to use, copy, host, deploy, back up and modify the Software for operating and promoting Bike Box Bath. This includes bikeboxbath.co.uk, its subdomains, testing environments and replacement domains used for the same business.
+
+Damian Bush may give copies to hosting providers and contractors where reasonably needed to host, maintain or develop the Bike Box Bath website. Those recipients may use the Software only for that purpose and must respect this licence.
+
+3. Private source code
+This is a proprietary licence, not an open-source licence. This licence imposes no requirement on George Aston, Damian Bush or Bike Box Bath to publish source code, release modifications, maintain a public repository or license the Software to the public.
+
+HTML, CSS and JavaScript delivered to visitors' browsers will necessarily be accessible to those visitors. That technical access does not grant permission to reuse, redistribute or sell the Software beyond viewing and using the website as intended.
+
+4. Restrictions
+Except as permitted above or required by applicable law, the Licensee must not sell, sublicense, publish or distribute the Software as a standalone product, website template, public source-code repository or website for another business without George Aston's written permission. Existing copyright and third-party notices must be preserved in copies where applicable.
+
+This licence does not restrict George Aston from reusing or licensing materials he owns, provided he does not disclose Bike Box Bath's confidential information or use materials belonging to others without permission.
+
+5. Third-party materials
+Third-party photographs, logos, fonts, libraries and other assets are excluded from this proprietary grant and remain subject to their own rights and terms. Nothing in this licence overrides a third-party licence or grants rights George Aston does not hold.
+
+In particular, the Bike Box Alan product photographs and branding are not transferred or licensed by George Aston through this document. Public commercial image-use permission must be confirmed with the relevant rights holder, or the images replaced with appropriately owned or licensed photographs. Retain the supplied image credits. The public-domain Bath photograph retains its stated status.
+
+6. Delivery and ongoing services
+Permission to use the Software does not itself promise hosting, maintenance, support, updates, payment processing, reservation services or any functionality not included in the delivered version. Any additional work, fees or service obligations must be agreed separately in writing. No recurring licence fee is created by this document.
+
+7. Material breach
+If either party identifies a material breach, they should notify the other in writing. George Aston may terminate this licence if the Licensee does not remedy a material breach within 30 days of receiving written notice. Otherwise the licence continues without a fixed expiry.
+
+8. Other agreements and applicable law
+This document does not unilaterally replace an existing agreement. Any conflicting prior agreement must be resolved expressly in writing by both parties. Changes to this licence require both parties' written agreement. Nothing here limits rights or liabilities that cannot lawfully be limited. This licence is governed by the laws of England and Wales, with disputes subject to the courts of England and Wales.
+
+AGREED BY:
+
+George Aston
+Signature: __________________________   Date: __________________
+
+Damian Bush, for Bike Box Bath
+Signature: __________________________   Date: __________________

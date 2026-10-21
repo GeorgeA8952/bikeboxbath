@@ -1,0 +1,9 @@
+node_modules/
+.sites-local/
+*.tar.gz
+
+.env
+.env.*
+*.sqlite
+*.sqlite-*
+private/

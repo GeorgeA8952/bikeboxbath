@@ -1,0 +1,25 @@
+[Unit]
+Description=Bike Box Bath rental administration
+After=network.target
+
+[Service]
+Type=simple
+User=bikeboxbath
+Group=bikeboxbath
+WorkingDirectory=/opt/bikeboxbath
+EnvironmentFile=/etc/bikeboxbath.env
+ExecStart=/usr/bin/node /opt/bikeboxbath/api/server.mjs
+Restart=on-failure
+RestartSec=5
+StateDirectory=bikeboxbath
+StateDirectoryMode=0700
+UMask=0077
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/var/lib/bikeboxbath
+RestrictAddressFamilies=AF_INET AF_INET6 AF_UNIX
+
+[Install]
+WantedBy=multi-user.target
